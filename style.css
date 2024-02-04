@@ -225,20 +225,16 @@ section:last-child {
 .sectionContent h2 {
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
 	font-size: 1.5em;
+	margin-top: 10px;
 	margin-bottom: -2px;
 }
 
 .subDetails {
 	font-size: 0.8em;
 	font-style: italic;
-	margin-bottom: 3px;
+	margin-top: 1px;
+	margin-bottom: 2px;
 }
-
-.subDetails {
-	text-align: right;
-	list-style-position: inside;
-}
-
 
 .keySkills {
 	list-style-type: none;
