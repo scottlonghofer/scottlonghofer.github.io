@@ -239,10 +239,6 @@ section:last-child {
 	list-style-position: inside;
 }
 
-​ #capitalOneList li {
-	float: left;
-	background-color: black;
-}
 
 .keySkills {
 	list-style-type: none;
